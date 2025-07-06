@@ -1,0 +1,2 @@
+git rm --cached .env
+git commit -m "Add .env to .gitignore and stop tracking it"

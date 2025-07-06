@@ -1,0 +1,17 @@
+├── fortnite-locker-bot/
+│
+├── package.json
+├── .env.example
+├── README.md
+│
+├── server/
+│   ├── index.js
+│   ├── epicAuth.js
+│   └── models/
+│       └── User.js
+│
+├── bot/
+│   └── bot.js
+│
+└── locker/
+    └── generateImage.js
